@@ -84,7 +84,7 @@ A selection of my analytics and SQL-based projects focused on insight generation
 ## Connect
 - **Website:** [daniy4i.github.io](https://daniy4i.github.io)  
 - **LinkedIn:** [linkedin.com/in/daniyaltb](https://www.linkedin.com/in/daniyaltb)  
-- **Email:** daniyaltb@gmail.com  
+- **Email:** daniyaltb.dev@gmail.com  
 
 ---
 
